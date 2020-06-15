@@ -1,0 +1,8 @@
+package config
+
+const (
+	ALiOssAccessKeyId = "LTA*********ATL"
+	ALiOssAccessKeySecret = "o7O*********070"
+	ALiOssEedPoint = "*********.aliyuncs.com"
+	ALiOssBucket = "*********"
+)
